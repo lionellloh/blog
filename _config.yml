@@ -1,1 +1,12 @@
+
+title: Lionell Loh 
+author: Github User
+email: lionellloh@gmail.com
+description: Blog and portfolio site 
 theme: jekyll-theme-cayman
+
+twitter_username: lionellloh 
+github_username: lionellloh 
+
+markdown: kramdown 
+theme: minima
